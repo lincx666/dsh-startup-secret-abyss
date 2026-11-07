@@ -1,0 +1,29 @@
+# NOTICE
+
+本项目是 [`6shenhonghong9/dsh-startup-secret`](https://github.com/6shenhonghong9/dsh-startup-secret)
+的**二次创作（魔改）版本**。
+
+- 原始项目：https://github.com/6shenhonghong9/dsh-startup-secret
+- 原作者：6shenhonghong9
+- 原始许可：MIT License（见 `LICENSE`）
+- 上游版本基线：v1.5.2
+
+## 本仓库的改动
+
+仅对代码与样式做了本地化改造，详见 `MOD-NOTES.md`。
+
+## 素材声明
+
+插件中包含的人物立绘、真声台词（`lib/assets/*.mp3`）、界面图形等素材，
+**版权归各自原作者 / 原作品权利人所有**。MIT 许可仅覆盖代码，不覆盖这些素材。
+
+本仓库分发这些文件仅为学习与交流用途，**请勿商用、请勿二次分发素材文件**。
+如相关权利人认为不妥，请联系删除。
+
+## 引用
+
+如果你使用或再分发本仓库，请一并保留：
+
+1. 本 `NOTICE` 文件
+2. 原始项目链接与原作者署名
+3. `LICENSE` 中的 MIT 声明
