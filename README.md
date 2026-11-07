@@ -1,5 +1,5 @@
 > **本仓库是魔改版（深海 / 克苏鲁）** — 基于 [6shenhonghong9/dsh-startup-secret](https://github.com/6shenhonghong9/dsh-startup-secret) 的二次创作。
-> 改动清单见 [MOD-NOTES.md](MOD-NOTES.md)，版权与素材声明见 [NOTICE](NOTICE)。
+> 改动清单见 [MOD-NOTES.md](MOD-NOTES.md)，版本记录见 [CHANGELOG.md](CHANGELOG.md)，版权与素材声明见 [NOTICE](NOTICE)。
 
 # dsh-startup-secret
 
